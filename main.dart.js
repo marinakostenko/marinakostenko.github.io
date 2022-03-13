@@ -60280,12 +60280,12 @@ return A.bg(B.p,p,B.k,p,p,new A.cB(s,m,A.aih(r,2),q,p,p,B.O),p,o.b,p,p,p,p,o.a)}
 A.Jv.prototype={
 H(a,b){return new A.qS(new A.a5B(this,b),A.WX("assets/images/twitter_icon.png",null,10.67,13.13),B.AD,null)}}
 A.a5B.prototype={
-$0(){return A.BV("https://twitter.com/intent/tweet?url=https://flutterhack.devpost.com/&text="+A.ov(B.mW,this.a.c,B.J,!1))},
+$0(){return A.BV("https://twitter.com/intent/tweet?url=https://marinakostenko.github.io/&text="+A.ov(B.mW,this.a.c,B.J,!1))},
 $S:0}
 A.Eu.prototype={
 H(a,b){return new A.qS(new A.Vb(this,b),A.WX("assets/images/facebook_icon.png",null,13.13,6.56),B.AB,null)}}
 A.Vb.prototype={
-$0(){return A.BV("https://www.facebook.com/sharer.php?u=https://flutterhack.devpost.com/&quote="+A.ov(B.mW,this.a.c,B.J,!1))},
+$0(){return A.BV("https://www.facebook.com/sharer.php?u=https://marinakostenko.github.io/&quote="+A.ov(B.mW,this.a.c,B.J,!1))},
 $S:0}
 A.qS.prototype={
 ah(){return new A.O9(B.l)},
